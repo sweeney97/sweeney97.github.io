@@ -9,6 +9,8 @@ html {
   background-image: url("/css/paper.png");
   }
 body {
+  text-align: justify;
+  text-justify: inter-word;
   margin: 0 auto;
   max-width: 56em;
   padding-left: 50px;
