@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="date" content="9/03/2022"/>
+  <meta name="auteur" content="A. Sweeney"/>
+  <meta name="lieux" content="Montréal"/>
+ <meta name="genre" content="littérature/poésie">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+<title>Les épines</title>
+
+<link rel="stylesheet" href="/css/style1.css">
+
+</head>
+<body>
+
+<br />J'ai trois épine dans le pied qui me font mourir
+<br />Et pourtant j'arrive tout autant à marcher et courir
+<br />L'une s'appelle Ego, l'autre Raison et Devoir la dernière
+<br />Et j'ai beau tirer que je n'arrive qu'à triturer ma chair
+<br /><br />Et me blesser plus avant que si j'eusse appris à endurer
+<br />Chaque trajet entraîne une douleur sourde qui m'empêche de regarder
+<br />Les paysages bucoliques, les nuages au ciel et les marcheurs cheminant
+<br />Car mon esprit est accaparé par ce qu'elles causent seulement
+<br /><br />Et si ma destination j'arrive enfin à atteindre  
+<br />Je soupire à qui veut bien m'entendre me plaindre
+<br />"Qu'il est difficile d'être homme, et je n'y prends pas plaisir!
+<br />Pourquoi poser le pied ainsi, sans de les y enlever ne jamais réussir?"
+
+<br />
+
+<hr>
+
+<p><small>1: L'âme d'un canon désigne l'«  évidement intérieur où se place le projectile » (CNRTL, 2012).</small>
+
+</body>
+</html>
